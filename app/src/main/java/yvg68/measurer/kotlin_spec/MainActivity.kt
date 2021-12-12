@@ -1,6 +1,6 @@
 package yvg68.measurer.kotlin_spec
 //my first comment
-// first comment branch_2
+// first comment branch_2_
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
